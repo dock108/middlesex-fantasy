@@ -1,5 +1,3 @@
-Sure, I can add that feature to the list! Here's the updated feature list in Markdown format:
-
 # Fantasy Football League Website Features List
 
 ## Basic Features
