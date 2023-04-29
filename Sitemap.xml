@@ -1,6 +1,3 @@
-Sure! Here's a sample site map XML for a fantasy football league website in sitemap protocol format:
-
-```xml
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://www.example.com/</loc>
@@ -63,6 +60,4 @@ Sure! Here's a sample site map XML for a fantasy football league website in site
         <priority>0.7</priority>
     </url>
 </urlset>
-```
-
-This sample site map includes URLs for the home page, registration page, login page, league list page, league creation page, league details page, draft page, team management page, playoffs page, forum page, player list page, and individual player details pages. You can add or remove URLs based on the pages that your fantasy football league website contains.
+ 
