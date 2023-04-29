@@ -1,5 +1,3 @@
-Sure! Here's a sample technology specification document for a fantasy football league website in Markdown format:
-
 # Fantasy Football League Website Technology Specification Document
 
 ## Overview
