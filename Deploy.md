@@ -1,5 +1,3 @@
-Sure! Here's a sample deployment document for a fantasy football league website in Markdown format:
-
 # Fantasy Football League Website Deployment Document
 
 ## Overview
